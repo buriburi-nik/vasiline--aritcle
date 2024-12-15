@@ -85,7 +85,8 @@ header {
 .hero p {
     color: #555;
 }
-
+.hero-image{
+    flex:1;}
 .hero-image img {
     width: 100%;
     height: 100%;
